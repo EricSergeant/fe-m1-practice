@@ -13,17 +13,17 @@
 5. In your browser (Chrome), how do you view the source of a website? Either right-click and select "View Page Source" or CTRL + U.
 
 6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
-  <h1> the main heading (largest)
-  <p> Text in a paragraph
-  <b> Bold text
-  <i> Italic Text
-  <br /> Creates a line break within a <p>
+  h1 the main heading (largest)
+  p Text in a paragraph
+  b Bold text
+  i Italic Text
+  br / Creates a line break within a paragraph
 
-7. What are empty elements? Elements that don't have additional words between the tags (e.g. <hr />).
+7. What are empty elements? Elements that don't have additional words between the tags (e.g. hr /).
 
 8. What is semantic markup? Markup that provides additional inforamtion on text (e.g. quotation marks, emphasis).
 
-9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements. These include: <header> <nav> and <article>.
+9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements. These include: header, nav, and article.
 
 
 First CodePen:
